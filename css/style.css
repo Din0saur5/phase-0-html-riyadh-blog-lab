@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: url(https://wallpaperset.com/w/full/e/6/a/234929.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -26,7 +26,7 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #f7f5f5;
 }
 
 h1 {
@@ -53,10 +53,11 @@ img {
 
 p {
   font-size: 1em;
+  color:green
 }
 
 a {
-  color: black;
+  color: crimson;
   text-decoration: none;
 }
 
